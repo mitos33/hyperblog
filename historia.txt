@@ -2,6 +2,7 @@ Esta es la historia de Daniel Cardona
 
 Daniel Cardona tiene 32 años y nació en Colombia
 
+Anita Platzi tiene 41 años y nació en Internet
+
 Mañana nos enfocaremos en su vida laboral
 
-Esto es una prueba de commit y usar git rm y git reset
